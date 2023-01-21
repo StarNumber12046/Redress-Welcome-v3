@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redress Welcome v3", "Redress Welcome v3.csproj", "{A2A6221E-6B4E-4F81-90B2-DD520A88C5CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2A6221E-6B4E-4F81-90B2-DD520A88C5CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A6221E-6B4E-4F81-90B2-DD520A88C5CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A6221E-6B4E-4F81-90B2-DD520A88C5CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A6221E-6B4E-4F81-90B2-DD520A88C5CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75FF4528-E439-4549-B316-B058842A6B5D}
+	EndGlobalSection
+EndGlobal
