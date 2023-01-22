@@ -92,5 +92,5 @@ jobs:
       with:
         name: Build (${{matrix.configuration}})
         path: |
-          "bin/${{matrix.configuration}}/app.publish/*.exe"
+          "bin/${{matrix.configuration}}/*.exe"
           "bin/${{matrix.configuration}}/*.pdb"
