@@ -91,4 +91,6 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: Build (${{matrix.configuration}})
-        path: bin/${{matrix.configuration}}/*.(exe|pdb)
+        path: |
+          "bin/${{matrix.configuration}}/app.publish/*.exe"
+          "bin/${{matrix.configuration}}/*.pdb"
